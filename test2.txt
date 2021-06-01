@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 testdd
-=======
-testdd
->>>>>>> dev
+
